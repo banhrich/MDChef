@@ -1,3 +1,5 @@
+from mdchef import *
+
 class rmsd_vs_time(recipe):
     '''
     Description: Calculate RMSD: mobile vs reference
